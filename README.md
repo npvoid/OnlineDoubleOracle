@@ -2,7 +2,7 @@
 
 ### Online Double Oracle
 
-> Online Double Oracle (ODO) is a new learning algorithms for two-player zero-sum games where the number of pure strategies is huge or even infinite. Specifically, we combine no-regret analysis from online learning with double oracle methods from game theory. ODO achieves the regret bound <img src="https://latex.codecogs.com/svg.image?O(\sqrt{T&space;k&space;log(k)})" title="O(\sqrt{T k log(k)})" /> with k is the size of the effective strategy set which is linearly dependent on the support size of Nash equilibrium. 
+> Online Double Oracle (ODO) is a new learning algorithm for two-player zero-sum games where the number of pure strategies is huge or even infinite. Specifically, we combine no-regret analysis from online learning with double oracle methods from game theory. ODO achieves the regret bound <img src="https://latex.codecogs.com/svg.image?\bg_white&space;O(\sqrt{Tklog(k)})" title="\bg_white O(\sqrt{Tklog(k)})" /> /> with k being the size of the effective strategy set which is linearly dependent on the support size of Nash equilibrium. 
 
 Le Cong Dinh, Yaodong Yang, Zheng Tian, Nicolas Perez Nieves, Oliver Slumbers, David Henry Mguni, Haitham Bou Ammar, Jun Wang (2021) Online Double Oracle [https://arxiv.org/pdf/2103.07780.pdf](https://arxiv.org/pdf/2103.07780.pdf) 
 
